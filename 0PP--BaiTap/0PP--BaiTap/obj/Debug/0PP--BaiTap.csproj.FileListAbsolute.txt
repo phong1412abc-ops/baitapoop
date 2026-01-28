@@ -1,0 +1,7 @@
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\bin\Debug\0PP--BaiTap.exe.config
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\bin\Debug\0PP--BaiTap.exe
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\bin\Debug\0PP--BaiTap.pdb
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\obj\Debug\0PP--BaiTap.csproj.AssemblyReference.cache
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\obj\Debug\0PP--BaiTap.csproj.CoreCompileInputs.cache
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\obj\Debug\0PP--BaiTap.exe
+G:\📁 OOP_BaiTap\0PP--BaiTap\0PP--BaiTap\obj\Debug\0PP--BaiTap.pdb
